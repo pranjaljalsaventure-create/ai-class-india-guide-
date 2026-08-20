@@ -128,15 +128,11 @@ The goal is to help learners become informed and thoughtful users of Artificial 
 
 ```text
 ai-class-india-guide/
-│
+
 ├── README.md
 ├── ai-basics.md
 ├── ai-courses-india.md
 ├── ai-class-for-students.md
 ├── ai-project-based-learning.md
-├── ai-career-skills.md
-├── how-to-choose-ai-course.md
-├── responsible-ai-learning.md
 ├── resources.md
-├── CONTRIBUTING.md
-└── LICENSE
+
