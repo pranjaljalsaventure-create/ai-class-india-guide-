@@ -22,7 +22,7 @@ Study how algorithms learn patterns from data and how models are evaluated.
 
 ### AI Projects
 
-Apply concepts through <a href="[https://example.com](https://scilindia.org/courses/Artificial-intelligence-course)">AI Projects</a>and gradually increase their complexity.
+Apply concepts through <a href="https://scilindia.org/courses/Artificial-intelligence-course"> AI Projects</a>and gradually increase their complexity.
 
 ## Learning Cycle
 
